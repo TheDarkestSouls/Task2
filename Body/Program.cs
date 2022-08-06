@@ -1,7 +1,7 @@
 ﻿Console.Write("Enter first number: "); 
-string first = Console.ReadLine();
+int first = Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter second number: "); 
-string second = Console.ReadLine();
+int second = Convert.ToInt32(Console.ReadLine());
 
 int a = first, b = second;
 
@@ -12,10 +12,10 @@ if(a > b)
 
 if(a < b)
 {
-    Console.Write(b); Console.Write(" is bigger than "); Console.Write(a); 
+    Console.Write(a); Console.Write(" is less than "); Console.Write(b); 
 }
 
 if(a == b)
 {
-    Console.Write("numbers are equal");
+    Console.Write(a); Console.Write(" and "); Console.Write(b); Console.Write(" are equal");
 }
