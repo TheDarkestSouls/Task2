@@ -1,0 +1,15 @@
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\bin\Debug\net6.0\Body.exe
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\bin\Debug\net6.0\Body.deps.json
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\bin\Debug\net6.0\Body.runtimeconfig.json
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\bin\Debug\net6.0\Body.dll
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\bin\Debug\net6.0\Body.pdb
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\obj\Debug\net6.0\Body.csproj.AssemblyReference.cache
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\obj\Debug\net6.0\Body.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\obj\Debug\net6.0\Body.AssemblyInfoInputs.cache
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\obj\Debug\net6.0\Body.AssemblyInfo.cs
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\obj\Debug\net6.0\Body.csproj.CoreCompileInputs.cache
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\obj\Debug\net6.0\Body.dll
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\obj\Debug\net6.0\refint\Body.dll
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\obj\Debug\net6.0\Body.pdb
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\obj\Debug\net6.0\Body.genruntimeconfig.cache
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Comparison\Body\obj\Debug\net6.0\ref\Body.dll
