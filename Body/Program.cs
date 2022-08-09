@@ -7,15 +7,15 @@ int a = first, b = second;
 
 if(a > b)
 {
-    Console.Write(a); Console.Write(" is bigger than "); Console.Write(b); 
+    Console.Write(a); Console.Write(" is bigger than "); Console.Write(b); //Console.WriteLine(" is bigger than " + b);
 }
 
 if(a < b)
 {
-    Console.Write(a); Console.Write(" is less than "); Console.Write(b); 
+    Console.Write(a); Console.Write(" is less than "); Console.Write(b); //Console.WriteLine(" is less than " + b);
 }
 
 if(a == b)
 {
-    Console.Write(a); Console.Write(" and "); Console.Write(b); Console.Write(" are equal");
+    Console.Write(a); Console.Write(" and "); Console.Write(b); Console.Write(" are equal"); //Console.WriteLine(a + " and " + b + " are equal");
 }
